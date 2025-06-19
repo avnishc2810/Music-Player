@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# dotenv environment files
+.env*
+!.env.example
+
+# Build
+dist/
+build/
+
+# OS/System files
+.DS_Store
+Thumbs.db
+
+# Coverage/Test
+coverage/
+
+# Misc
+*.swp
+*.swo
+*.tmp
